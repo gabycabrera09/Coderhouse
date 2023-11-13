@@ -1,4 +1,4 @@
-# Proyecyo Final Precios Inmuebles
+# Proyecto Final Precios Inmuebles
 
 Este proyecto en Python utiliza diversos modelos de regresión para predecir el precio de las casas. Los modelos se han entrenado utilizando un conjunto de datos y se han evaluado mediante métricas de rendimiento.
 
