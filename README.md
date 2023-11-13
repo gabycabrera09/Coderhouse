@@ -11,7 +11,7 @@ Este proyecto en Python utiliza diversos modelos de regresión para predecir el 
 - Statsmodels: Para realizar análisis estadísticos.
 - Scikit-learn: Para implementar modelos de regresión y métricas de evaluación.
 - XGBoost: Para construir modelos de boosting.
-- Requests: Para hacer solicitudes HTTP (puede ser usado para descargar datos en línea).
+
 
 ## Estructura del Proyecto
 
